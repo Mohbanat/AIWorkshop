@@ -1,0 +1,101 @@
+Ticket_ID,Created_Date,Region,Service_Plan,Issue_Category,Contact_Channel,Ticket_Status,Resolution_Hours,Target_Resolution_Hours,Customer_Satisfaction_1_to_5
+ET-SIM-0001,2026-08-06,Dubai,Prepaid mobile,Home internet connectivity,Call center,Resolved,11,24,5
+ET-SIM-0002,2026-07-13,Ajman,Prepaid mobile,Mobile network coverage,Call center,In progress,,48,
+ET-SIM-0003,2026-08-24,Sharjah,Prepaid mobile,Mobile network coverage,Mobile app,Resolved,16,48,4
+ET-SIM-0004,2026-08-14,Dubai,Postpaid mobile,Billing inquiry,Website,Resolved,13,72,3
+ET-SIM-0005,2026-07-24,Dubai,Postpaid mobile,Home internet connectivity,Website,Resolved,6,24,4
+ET-SIM-0006,2026-09-27,Dubai,Postpaid mobile,SIM activation,Website,Resolved,74,12,3
+ET-SIM-0007,2026-07-28,Sharjah,Prepaid mobile,Home internet connectivity,Retail store,Resolved,14,24,5
+ET-SIM-0008,2026-09-14,Al Ain,Postpaid mobile,SIM activation,Mobile app,Resolved,11,12,3
+ET-SIM-0009,2026-07-26,Al Ain,Home internet,Home internet connectivity,Website,Resolved,8,24,4
+ET-SIM-0010,2026-07-11,Sharjah,Prepaid mobile,SIM activation,Call center,Open,,12,
+ET-SIM-0011,2026-09-01,Dubai,Postpaid mobile,Home internet connectivity,Call center,Resolved,9,24,
+ET-SIM-0012,2026-09-07,Al Ain,Postpaid mobile,Plan change,Call center,In progress,,24,
+ET-SIM-0013,2026-09-22,Abu Dhabi,Postpaid mobile,SIM activation,Call center,Resolved,25,12,5
+ET-SIM-0014,2026-08-29,Ajman,Home internet,Roaming support,Mobile app,Resolved,10,24,4
+ET-SIM-0015,2026-07-18,Ajman,Postpaid mobile,Plan change,Call center,Resolved,22,24,5
+ET-SIM-0016,2026-09-05,Ajman,Home internet,Roaming support,Retail store,Resolved,3,24,4
+ET-SIM-0017,2026-09-27,Dubai,Home internet,Plan change,Retail store,Resolved,11,24,4
+ET-SIM-0018,2026-07-11,Ajman,Postpaid mobile,Mobile network coverage,Call center,Resolved,12,48,5
+ET-SIM-0019,2026-09-25,Ajman,Home internet,Plan change,Call center,Resolved,49,24,
+ET-SIM-0020,2026-09-25,Dubai,Postpaid mobile,Mobile network coverage,Mobile app,Resolved,36,48,2
+ET-SIM-0021,2026-08-08,Sharjah,Home internet,Billing inquiry,Website,Resolved,32,72,4
+ET-SIM-0022,2026-09-17,Dubai,Prepaid mobile,Mobile network coverage,Website,Resolved,43,48,4
+ET-SIM-0023,2026-09-04,Abu Dhabi,Postpaid mobile,Home internet connectivity,Retail store,Resolved,7,24,2
+ET-SIM-0024,2026-07-20,Sharjah,Home internet,SIM activation,Mobile app,Resolved,62,12,4
+ET-SIM-0025,2026-09-19,Al Ain,Home internet,Roaming support,Mobile app,Resolved,24,24,
+ET-SIM-0026,2026-09-05,Al Ain,Postpaid mobile,SIM activation,Call center,Resolved,16,12,3
+ET-SIM-0027,2026-09-25,Sharjah,Home internet,Mobile network coverage,Retail store,In progress,,48,
+ET-SIM-0028,2026-08-26,Ajman,Home internet,Plan change,Mobile app,Open,,24,
+ET-SIM-0029,2026-09-13,Al Ain,Prepaid mobile,Mobile network coverage,Mobile app,Resolved,14,48,5
+ET-SIM-0030,2026-08-22,Al Ain,Home internet,Home internet connectivity,Call center,Open,,24,
+ET-SIM-0031,2026-09-13,Dubai,Prepaid mobile,Plan change,Retail store,Resolved,10,24,4
+ET-SIM-0032,2026-09-07,Dubai,Postpaid mobile,Roaming support,Mobile app,Resolved,11,24,3
+ET-SIM-0033,2026-09-29,Ajman,Home internet,Roaming support,Retail store,In progress,,24,
+ET-SIM-0034,2026-08-24,Abu Dhabi,Prepaid mobile,Home internet connectivity,Call center,Resolved,69,24,5
+ET-SIM-0035,2026-08-05,Ajman,Home internet,Roaming support,Mobile app,Resolved,17,24,2
+ET-SIM-0036,2026-07-24,Dubai,Prepaid mobile,Plan change,Call center,Resolved,59,24,5
+ET-SIM-0037,2026-08-21,Abu Dhabi,Postpaid mobile,Mobile network coverage,Call center,Resolved,8,48,3
+ET-SIM-0038,2026-09-18,Abu Dhabi,Home internet,Plan change,Retail store,In progress,,24,
+ET-SIM-0039,2026-08-14,Al Ain,Prepaid mobile,Roaming support,Website,Resolved,82,24,5
+ET-SIM-0040,2026-08-28,Abu Dhabi,Home internet,Home internet connectivity,Mobile app,Resolved,12,24,
+ET-SIM-0041,2026-08-19,Al Ain,Home internet,Roaming support,Website,In progress,,24,
+ET-SIM-0042,2026-09-27,Abu Dhabi,Home internet,SIM activation,Website,Resolved,17,12,
+ET-SIM-0043,2026-07-29,Ajman,Prepaid mobile,Roaming support,Call center,Resolved,46,24,2
+ET-SIM-0044,2026-08-11,Abu Dhabi,Home internet,Mobile network coverage,Mobile app,Resolved,10,48,4
+ET-SIM-0045,2026-09-08,Ajman,Postpaid mobile,Mobile network coverage,Website,Resolved,12,48,4
+ET-SIM-0046,2026-08-01,Abu Dhabi,Prepaid mobile,Plan change,Mobile app,In progress,,24,
+ET-SIM-0047,2026-07-25,Al Ain,Home internet,Plan change,Website,Resolved,7,24,3
+ET-SIM-0048,2026-09-11,Ajman,Postpaid mobile,Plan change,Call center,In progress,,24,
+ET-SIM-0049,2026-09-09,Sharjah,Home internet,Plan change,Retail store,Resolved,5,24,4
+ET-SIM-0050,2026-09-15,Al Ain,Prepaid mobile,SIM activation,Retail store,Resolved,36,12,2
+ET-SIM-0051,2026-08-26,Dubai,Postpaid mobile,Billing inquiry,Retail store,Resolved,5,72,4
+ET-SIM-0052,2026-09-29,Dubai,Postpaid mobile,Mobile network coverage,Website,In progress,,48,
+ET-SIM-0053,2026-09-01,Al Ain,Postpaid mobile,Roaming support,Website,Resolved,15,24,4
+ET-SIM-0054,2026-07-18,Dubai,Prepaid mobile,Plan change,Website,Resolved,17,24,3
+ET-SIM-0055,2026-07-13,Sharjah,Home internet,Roaming support,Retail store,Open,,24,
+ET-SIM-0056,2026-07-01,Abu Dhabi,Home internet,SIM activation,Mobile app,In progress,,12,
+ET-SIM-0057,2026-07-17,Abu Dhabi,Prepaid mobile,Mobile network coverage,Call center,In progress,,48,
+ET-SIM-0058,2026-08-21,Ajman,Postpaid mobile,Home internet connectivity,Call center,Resolved,6,24,3
+ET-SIM-0059,2026-09-04,Sharjah,Home internet,Billing inquiry,Call center,Resolved,23,72,
+ET-SIM-0060,2026-08-02,Sharjah,Prepaid mobile,Home internet connectivity,Retail store,Resolved,23,24,5
+ET-SIM-0061,2026-08-20,Abu Dhabi,Home internet,Home internet connectivity,Call center,Resolved,12,24,5
+ET-SIM-0062,2026-09-16,Al Ain,Postpaid mobile,Plan change,Mobile app,Resolved,10,24,
+ET-SIM-0063,2026-07-01,Ajman,Postpaid mobile,Home internet connectivity,Website,Resolved,16,24,
+ET-SIM-0064,2026-07-02,Al Ain,Prepaid mobile,Home internet connectivity,Retail store,Resolved,39,24,
+ET-SIM-0065,2026-08-10,Abu Dhabi,Prepaid mobile,Plan change,Mobile app,Resolved,42,24,3
+ET-SIM-0066,2026-08-07,Abu Dhabi,Postpaid mobile,Mobile network coverage,Call center,Resolved,22,48,4
+ET-SIM-0067,2026-09-12,Sharjah,Postpaid mobile,Roaming support,Call center,Resolved,24,24,5
+ET-SIM-0068,2026-07-28,Sharjah,Prepaid mobile,SIM activation,Website,In progress,,12,
+ET-SIM-0069,2026-07-07,Al Ain,Prepaid mobile,Billing inquiry,Retail store,Resolved,58,72,5
+ET-SIM-0070,2026-08-22,Al Ain,Postpaid mobile,Home internet connectivity,Website,Resolved,29,24,5
+ET-SIM-0071,2026-07-14,Al Ain,Prepaid mobile,Roaming support,Call center,Resolved,23,24,5
+ET-SIM-0072,2026-07-04,Al Ain,Postpaid mobile,Home internet connectivity,Call center,Open,,24,
+ET-SIM-0073,2026-07-14,Ajman,Home internet,Home internet connectivity,Call center,Resolved,4,24,4
+ET-SIM-0074,2026-08-21,Dubai,Prepaid mobile,SIM activation,Website,Resolved,16,12,5
+ET-SIM-0075,2026-07-15,Abu Dhabi,Prepaid mobile,Home internet connectivity,Call center,Open,,24,
+ET-SIM-0076,2026-07-10,Ajman,Home internet,Mobile network coverage,Website,Resolved,33,48,3
+ET-SIM-0077,2026-08-20,Ajman,Postpaid mobile,SIM activation,Website,Open,,12,
+ET-SIM-0078,2026-08-05,Ajman,Home internet,Billing inquiry,Mobile app,Resolved,42,72,4
+ET-SIM-0079,2026-09-03,Dubai,Home internet,Billing inquiry,Mobile app,Open,,72,
+ET-SIM-0080,2026-09-23,Dubai,Postpaid mobile,Home internet connectivity,Website,Resolved,15,24,
+ET-SIM-0081,2026-08-13,Sharjah,Home internet,Billing inquiry,Retail store,Open,,72,
+ET-SIM-0082,2026-07-23,Al Ain,Prepaid mobile,Plan change,Mobile app,Open,,24,
+ET-SIM-0083,2026-09-26,Dubai,Prepaid mobile,Billing inquiry,Mobile app,Resolved,18,72,3
+ET-SIM-0084,2026-09-26,Dubai,Prepaid mobile,Roaming support,Website,Resolved,21,24,5
+ET-SIM-0085,2026-08-31,Abu Dhabi,Home internet,Roaming support,Call center,Resolved,12,24,4
+ET-SIM-0086,2026-09-15,Dubai,Postpaid mobile,SIM activation,Mobile app,Resolved,23,12,2
+ET-SIM-0087,2026-09-30,Ajman,Prepaid mobile,Billing inquiry,Mobile app,In progress,,72,
+ET-SIM-0088,2026-09-11,Ajman,Home internet,SIM activation,Retail store,Resolved,40,12,
+ET-SIM-0089,2026-09-08,Abu Dhabi,Prepaid mobile,Home internet connectivity,Mobile app,Resolved,34,24,5
+ET-SIM-0090,2026-09-19,Dubai,Postpaid mobile,SIM activation,Mobile app,In progress,,12,
+ET-SIM-0091,2026-08-07,Abu Dhabi,Home internet,Home internet connectivity,Retail store,Resolved,21,24,2
+ET-SIM-0092,2026-07-10,Abu Dhabi,Postpaid mobile,SIM activation,Retail store,Resolved,27,12,2
+ET-SIM-0093,2026-07-24,Ajman,Home internet,Roaming support,Website,Resolved,19,24,5
+ET-SIM-0094,2026-07-12,Abu Dhabi,Prepaid mobile,Plan change,Retail store,Resolved,71,24,5
+ET-SIM-0095,2026-08-16,Al Ain,Prepaid mobile,Home internet connectivity,Retail store,Open,,24,
+ET-SIM-0096,2026-09-26,Dubai,Home internet,SIM activation,Retail store,Resolved,14,12,5
+ET-SIM-0097,2026-09-28,Al Ain,Prepaid mobile,SIM activation,Mobile app,Resolved,48,12,5
+ET-SIM-0098,2026-07-10,Abu Dhabi,Postpaid mobile,Plan change,Retail store,Resolved,24,24,5
+ET-SIM-0099,2026-09-07,Abu Dhabi,Postpaid mobile,Roaming support,Website,Open,,24,
+ET-SIM-0100,2026-07-04,Dubai,Postpaid mobile,Billing inquiry,Retail store,Open,,72,
